@@ -7,7 +7,7 @@ https://seiga.nicovideo.jp/seiga/im10820942
 https://booth.pm/ja/items/5480735  
 
 ### 各種素材
-- BEIZimages
+- BEIZimages  
 https://www.beiz.jp/  
 - 音楽  
 https://www.springin.org/sound-stock
