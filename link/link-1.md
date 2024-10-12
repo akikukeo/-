@@ -50,4 +50,6 @@ https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoReaderPlugin
 `sm44072559`  
 - HighSpeedVideoWriterPlugin  
 https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoWriterPlugin  
-`sm44102437`  
+`sm44102437`
+- VOICEVOX:小夜/SAYO  
+https://voicevox.hiroshiba.jp/  
