@@ -7,6 +7,10 @@
 **リンク切れや名称変更等につきましてはご了承ください。最新の情報を常に更新はしておりません。**  
 修正は問い合わせください。Githubでも対応可能です。(Pullrequests,issues等で)  
 
+### CV
+- VOICEVOX:小夜/SAYO  
+- VOICEVOX:四国めたん
+
 ### 立ち絵(敬称略,順不同)
 - いいねボタンとかに乗ってくれるVOICEVOX/委員長  
 https://seiga.nicovideo.jp/seiga/im10820942  
@@ -51,5 +55,7 @@ https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoReaderPlugin
 - HighSpeedVideoWriterPlugin  
 https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoWriterPlugin  
 `sm44102437`
-- VOICEVOX:小夜/SAYO  
-https://voicevox.hiroshiba.jp/  
+- PsdTachiePlugin
+https://www.nicovideo.jp/watch/sm44153806
+`sm44153806`
+ 
