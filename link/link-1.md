@@ -61,3 +61,8 @@ https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoWriterPlugin
 https://www.nicovideo.jp/watch/sm44153806  
 `sm44153806`  
  
+### その他  
+**作者**-hogehoge  
+**権利者**-hogehoge  
+**データリンク**-https://d.kuku.lu/exanple  
+**アップロードリンク**-https://youtube.com/exanple  
