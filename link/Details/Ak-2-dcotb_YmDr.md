@@ -43,7 +43,7 @@ https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoWriterPlugin
 
 ### その他  
 **作者**akikukeo  
-**データリンク**https://d.kuku.lu/xgg72tcsz pass:非公開  
+**データリンク**https://d.kuku.lu/xgg72tcsz pass:要お問い合わせ  
 **アップロードリンク**https://youtu.be/ZGgxZBX2u1o  
 **管理番号**fseqj6u  
 
