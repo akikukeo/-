@@ -3,7 +3,7 @@
 **ニコニコでのコンテンツツリーの番号もできる限り記載しております。**  
 **リンク切れや名称変更等につきましてはご了承ください。最新の情報を常に更新はしておりません。**  
 **修正は問い合わせください。Githubでも対応可能です。(Pullrequests,issues等で)**  
-各ドキュメントで齟齬があった場合は親ディレクトリの[link-1.md](../link-1.md)が優先となります。
+各ドキュメントで齟齬があった場合は親ディレクトリの[link-1.md](../link-1.md)が優先となります。**親ディレクトリは今までに使ったのすべてあるので注意！リンク変更等は優先！**  
 
 
 ### ゲームリンク
@@ -42,9 +42,10 @@ https://ymm4plugin.wiki.fc2.com/wiki/HighSpeedVideoWriterPlugin
 `sm44102437`
 
 ### その他  
-**作者**akikukeo  
-**データリンク**https://d.kuku.lu/xgg72tcsz pass:要お問い合わせ  
-**アップロードリンク**https://youtu.be/ZGgxZBX2u1o  
-**管理番号**fseqj6u  
 
-Copyright © akikukeo, milkT 2024 All rights reserved
+作者: Akikukeo  
+アップロードリンク: https://youtu.be/ZGgxZBX2u1o 
+管理番号: fseqj6u
+
+Copyright © 2024 Akikukeo. All rights reserved.  
+Special thanks to MilkT.
